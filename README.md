@@ -1,3 +1,6 @@
-# A.Mahoney Portfolio 2
+<<<<<<< HEAD
+
+# A.Mahoney Portfolio 3
+
 
 Great Site!
