@@ -1,0 +1,233 @@
+@viewport {width: device-width; scale: 1;}
+@-ms-viewport {width: device-width;scale: 1;}
+@-o-viewport {width: device-width;scale: 1;	}
+@-webkit-viewport {width: device-width;scale: 1;}
+@-moz-viewport {width: device-width;scale: 1;}
+
+a{
+
+	text-decoration: none;
+}
+
+body{
+margin: 0;
+
+}
+
+em{
+	text-emphasis:none;
+	color:#06F;	
+}
+
+p{
+font-size:1em;
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	
+}
+
+.back{
+width:130%;	
+margin-top:-10px;
+border-top:solid 1px #fff;
+border-bottom:solid 1px #000;
+}
+
+.portfolio{
+width:100%;	
+
+border-top:solid 1px #000;
+border-bottom:solid 1px #000;
+}
+
+figure{
+	margin:0;
+}
+
+figcaption{
+	margin:2em ;
+	font-size:0.7em;
+	font-family:sans-serif;
+}
+
+h1{
+margin:0;
+font-size: 1.7em;
+
+font-family:"Lobster", Helvetica, sans-serif;	
+}
+
+header{
+background-color:#000;
+width:100%;	
+
+display:inline-block;
+
+
+}
+
+
+header img{
+	width:40%;
+	display: block;
+    margin-left: 8%;
+    
+	padding-top:1%;
+}
+
+.info{
+float:left;
+margin: 0 2em 0 2em; 	
+}
+
+.media-contact {
+display:block;
+margin-left: 2em;	
+}
+
+.media-contact img{
+display: inline-block;
+width: 20%;	
+}
+
+.media-contact2 {
+display:none;
+float:right;
+vertical-align:top;
+
+}
+
+.media-contact img{
+
+width: 20%;	
+}
+
+
+@media only screen and (min-width: 25em) {
+.media-contact2 {
+display:inline-block;
+margin-bottom:10px;
+margin-right:-60px;
+
+
+}
+
+.logo{
+	float:left;
+}
+
+header img{
+width:30%;	
+}
+
+.media-contact{
+display:none;	
+}
+}
+
+@media only screen and (min-width: 35em) {
+	
+.logo{
+width:25%;
+}
+.media-contact2{
+margin-top:4%;
+margin-bottom:4%;
+margin-right:-30px;
+width:15%;
+}
+}
+
+@media only screen and (min-width: 45em) {
+
+body{
+position:relative;	
+}
+.info{
+position: absolute;
+top: 0;
+left: 0;
+z-index:1000;
+margin-top: 30%;
+margin-left:60%;
+padding:2em;
+background-color:#FFF;
+border-top: solid 1px #000;	
+}
+.logo{
+width:20%;
+}
+figcaption{
+	margin:2em ;
+	font-size:1em;
+	
+}
+}
+@media only screen and (min-width: 55em) {
+.back{
+width:100%;	
+}
+
+.logo{
+width:15%;
+}	
+.media-contact2{
+margin-top:2%;
+margin-bottom:2%;
+width:12%;
+}
+	
+}
+
+@media only screen and (min-width: 85em) {
+header{
+
+border-bottom:solid 1px #fff;	
+
+}
+.back{
+
+position:absolute;
+left:0px;
+top:0px;
+z-index:-1;	
+}
+.info{
+margin-top: 20%;
+margin-left:55%;
+margin-right:5%;	
+}
+
+p{
+font-size:1.25em;	
+}
+}
+	
+@media only screen and (min-width: 105em) {	
+p{
+font-size:1.5em;	
+}	
+
+h1{
+font-size: 2em;	
+}
+
+.logo{
+width:10%;
+}
+}
+	
+@media only screen and (min-width: 155em) {	
+p{
+font-size:2em;	
+}
+
+h1{
+font-size: 2.5em;	
+}
+
+.logo{
+width:7%;
+}
+}
+
+	

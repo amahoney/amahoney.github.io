@@ -1,3 +1,1 @@
 markdown: redcarpet
-baseurl: /dinosaurs
-exclude: ['README.md']
