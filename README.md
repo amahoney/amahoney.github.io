@@ -1,6 +1,3 @@
-<<<<<<< HEAD
+# Dinosaurs
 
-# A.Mahoney Portfolio 3
-
-
-Great Site!
+A website listing popular dinosaurs.
