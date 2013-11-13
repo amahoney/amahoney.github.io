@@ -1,22 +1,29 @@
 ---
 layout: default
----	
-		
-	<img src="img/IMG_5669crop.jpg" alt="Mahoney image" class="back">
-	
-	<div class="info">	
-		<h1>Aly Mahoney. <a href="portfolio.html"><em>Designer. </em></a> Lover of Art and Cinema.</h1>
-	
-		<p>
+---
 
-I am a designer who's current experience lies mostly in print such as packaging and posters. However, my passion lies in how we function in our lives and how we experience the world a.k.a User Experience Design (UI/UX). 
 
-My current professional focus is on improving my Motion Graphics skills. Growing is critical to creativity.
+<meta name="description" content="Featuring many ghost towns of the world and the disasters that create including Pripyat">
 
-I believe that we can experience the world around us in a more satisfying way whether it be through our technology or our environments. Through design every single aspect of living can be improved. <br><br>
+</div>
+<div class="grid main personal">
+<div class="unit unit-s-1 unit-m-1 unit-l-1 ">
+<h1>Ghost Towns of the World</h1>
+<p>I am a designer in Ottawa with experience in <strong>UI/UX  design </strong> and a fascination in <strong>way-finding</strong>. The main link between these fields is their ability to facilitate  interaction and navigation. I love to inspire curiosity and simplify the complications of life. I believe that <strong>design comes first</strong> and by working with a variety of clients I can help them adopt this ideology to their benefit.
+</div>
+</div>
 
-I am Aly Mahoney. Designer. Lover of Art and Cinema.</p>
-		
-	</div>	
-	
-	
+
+<div class="grid portfolio">
+{% for besttowns in site.pages %}
+{% if besttowns.category == "besttowns" %}
+<div class="unit unit-s-1 unit-m-1-2 unit-l-1-3 best">
+
+<a href="{{besttowns.site}}"><h3>{{besttowns.name}}</h3></a>
+<a href="{{besttowns.site}}"><img src="img/{{besttowns.image}}" class="flex-img" alt="{{besttowns.alttag | markownify}}"></a>
+
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
