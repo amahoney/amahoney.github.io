@@ -11,6 +11,17 @@ a{
 
 }
 
+.logo{
+width:50%;
+padding:25%;
+background-color:#fff;
+
+}
+
+.name{
+background-color:#ccc;
+margin:0;
+}
 
 img{
 	width:100%;
@@ -23,11 +34,7 @@ padding:5%;
 }
 
 footer{
-background-color: #f2f0d5;
-
 padding:0;
-margin-top:-15px;
-margin-bottom:-15px;
 
 }
 
@@ -52,28 +59,12 @@ text-decoration: none;
 
 }
 
-.skiplinks a,
-.skiplinks a:link,
-.skiplinks a:visited{
-	padding:0.75em 1em;
-	position: absolute;
-	top: -10em;
 
-	background-color: #000;
-font-family: "futura", sans-serif;
-	color: #fff;
-	text-decoration: none;
-
-}
-
-.skiplinks a:focus{
-top: 0;
-
-}
 
 a:hover,
 a:active{
 	outline:none;
+	background-color:#fff;
 }
 
 
@@ -84,40 +75,11 @@ outline:3px solid #000;
 
 }
 
-.main {
-	
-	background: url('img/texture.jpg');
-	background-color: #f2f0d5;
-	padding: 5%  ;
-	
-}
 
-.main h1{
 
-	padding: 2% 0 0 2%;
 
-}
-.logo{
-	width:90%;
-	max-height:120px;
-}
-.head{
-	padding-top:10px;
-	padding-bottom:10px;
-	background-color:#40362e;
-	overflow:hidden;
-	color:#f2f0d5;
 
-}
 
-.head h1{
-	color:#f2f0d5;
-	font-size: 3em;
-		font-weight: 200;
-		text-align: center;
-		display:inline-block;
-
-}
 .search{
 	float:right;
 	display:none;
@@ -128,7 +90,9 @@ h1{
 		font-family: "futura", sans-serif;
 		text-transform: uppercase;
 		font-weight: 300;
-		font-size:1em;
+		font-size: 0.5em;
+		
+
 }
 
 p{
@@ -144,35 +108,12 @@ h2{
 	margin:0;
 	font-size:1.1em;
 	padding-top:5px;
-	color:#40362e;
+	color:#000;
 	text-transform: uppercase;
-	background-color:#93d9b0;
-}
-
-.nav{
-
-	background-color:#93bf9e;
-	border-bottom:solid 5px #93d9b0; 
 	
-
 }
-.nav:hover{
 
-	background-color:#93d9b0;
-	
 
-}
-h3{
-	font-family: "futura", sans-serif;
-	font-weight:400;
-	padding:1%;
-	font-size:1.1em;
-position:absolute;
-background-color: #40362e;
-color:#f2f0d5;
-z-index:100;
-
-}
 
 .flex-img{
 
@@ -189,63 +130,15 @@ overflow:hidden;
 @media only screen and (max-width: 38em) {
 
 
-.head h1{
-	
-	font-size: 2em;
-		font-weight: 100;
-		text-align: right;
-		display:inline-block;
-margin-top:30px;
-}
 
-h2{
-	text-align:center;
-	}
-
-
-}
 
 @media only screen and (min-width: 38em) and (max-width: 60em) {
 
-.logo{
-	width:70%;
 
-}
-
-.art h1{
-	font-size:1.5em;
-	padding: 2% 2% 2% 5%;
-}
-
-p{
-	padding:0 5% 0 5%;
-}
-h2{
-	padding:2% 0 2% 5%;
-}
-
-
-}
 
 
 @media only screen and (min-width: 60em) {
 
-.logo{
-	width:50%;
-}
-
-.art h1{
-	font-size:1.7em;
-	padding: 1% 2% 0 5%;
-}
-
-h2{
-	padding:2% 0 0 2%;
-}
-
-p{
-	padding:2% ;
-}
 
 
 
