@@ -1,8 +1,8 @@
 ---
-name: Spomenik
-image: spomenik.jpg
+name: Ottawa Art Gallery logo redesign
+image: oag.jpg
 category: besttowns
-site: spomenik.html
-alttag: Spomenik Coffee Table Book
+site: oag.html
+alttag: Ottawa Art Gallery logo redesign
 ---
 

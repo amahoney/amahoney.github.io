@@ -1,8 +1,8 @@
 ---
-name: Spomenik
-image: spomenik.jpg
+name: Beacon App
+image: beacon.jpg
 category: besttowns
-site: spomenik.html
-alttag: Spomenik Coffee Table Book
+site: beacon.html
+alttag: Beacon App for a portable tour guide.
 ---
 
