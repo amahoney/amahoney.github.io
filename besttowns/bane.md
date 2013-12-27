@@ -1,8 +1,8 @@
 ---
-name: Spomenik
-image: spomenik.jpg
+name: Bane
+image: bane.jpg
 category: besttowns
-site: spomenik.html
-alttag: Spomenik Coffee Table Book
+site: bane.html
+alttag: Dark knight imax ad series.
 ---
 
