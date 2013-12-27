@@ -1,8 +1,8 @@
 ---
-name: Spomenik
-image: spomenik.jpg
+name: Eagle Logo
+image: eagle.jpg
 category: besttowns
-site: spomenik.html
-alttag: Spomenik Coffee Table Book
+site: eagle.html
+alttag: Eagle Auto logo redesign
 ---
 
