@@ -3,12 +3,14 @@ body{
 	padding:0;
 
 }
+
+
 a{
 	text-decoration: none;
 	list-style-type: none;
 	font-family: "futura", sans-serif;
 	color:#000;
-
+	display: block;
 
 }
 
@@ -29,6 +31,7 @@ margin:0;
 img{
 	width:100%;
 	min-height:50px;
+	display:block;
 	
 }
 .art h1{
