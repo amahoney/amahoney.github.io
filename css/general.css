@@ -43,6 +43,7 @@ padding:0;
 
 iframe{
 	width:100%;
+	
 }
 .skiplinks{
 	margin: 0;
@@ -98,6 +99,7 @@ p{
 	font-family: "futura", sans-serif;
 	padding:5%;
 	margin:0;
+	font-size:1em;
 }
 
 
@@ -133,6 +135,13 @@ overflow:hidden;
 
 }
 @media only screen and (min-width: 38em) and (max-width: 60em) {
+.info{
+	padding-top:35%;
+}
+
+p{
+	font-size:0.9em; 
+}
 
 }
 
@@ -144,6 +153,8 @@ margin-right:auto;
 margin-left: auto;
 
 }
-
+.info{
+	padding-top:35%;
+}
 
 }
