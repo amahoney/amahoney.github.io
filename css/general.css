@@ -102,7 +102,7 @@ p{
 	font-family: "futura", sans-serif;
 	padding:5%;
 	margin:0;
-	font-size:0.7em;
+	font-size:0.8em;
 }
 
 
@@ -139,7 +139,7 @@ overflow:hidden;
 }
 @media only screen and (min-width: 38em) and (max-width: 60em) {
 .info{
-	padding-top:35%;
+	padding-top:40%;
 }
 
 p{
