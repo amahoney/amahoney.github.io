@@ -1,6 +1,6 @@
 ---
 name: Jekyll and Hyde Wine
-image: jekyll.jpg
+image: jekyllsquare.jpg
 category: besttowns
 site: jekyll.html
 alttag: Jekyll and Hyde Wine
