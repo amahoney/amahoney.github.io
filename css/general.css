@@ -33,7 +33,7 @@ background-color:#fff;
 .name{
 background-color:#ccc;
 margin:0;
-width:99.98%;
+width:99%;
 
 }
 
@@ -155,6 +155,7 @@ p{
 	font-size:0.9em;
 }
 
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -170,5 +171,9 @@ margin-left: auto;
 }
 .address{
 	padding-left:0;
+}
+
+.name{
+	width:99.98%;
 }
 }
