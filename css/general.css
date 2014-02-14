@@ -4,6 +4,15 @@ body{
 
 }
 
+.address{
+		font-family: "futura", sans-serif;
+	padding-left:5%;
+	padding-right:5%;
+	padding-top:5%;
+	padding-bottom:5%;
+	margin:0;
+	font-size:0.8em;
+}
 
 a{
 	text-decoration: none;
@@ -159,5 +168,7 @@ margin-left: auto;
 .info{
 	padding-top:35%;
 }
-
+.address{
+	padding-left:0;
+}
 }
