@@ -18,7 +18,7 @@ a{
 	text-decoration: none;
 	list-style-type: none;
 	font-family: "futura", sans-serif;
-	color:#ccc;
+	color:#000;
 	display: block;
 
 }
@@ -76,7 +76,7 @@ iframe{
 a:hover,
 a:active{
 	outline:none;
-	background-color:#fff;
+	background-color:#ccc;
 }
 
 
