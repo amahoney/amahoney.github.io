@@ -1,8 +1,8 @@
 ---
-name: Haava Photos
-image: havana.jpg
+name: Vayyoo Activities
+image: vayyoo.jpg
 category: besttowns
-site: havana.html
-alttag: Havana Album Art made with photo collage
+site: vayyoo.html
+alttag: Vayyoo Activities Project
 ---
 
