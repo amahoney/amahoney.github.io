@@ -140,7 +140,9 @@ overflow:hidden;
 
 }
 
-
+br{
+	padding-top:2%;
+}
 
 @media only screen and (max-width: 38em) {
 
