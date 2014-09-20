@@ -9,7 +9,7 @@ body{
 
 .social img{
 width:50%;
-min-height:auto;
+min-height:auto !important;
 margin-right:auto;
 margin-left:auto;
 display:block;
