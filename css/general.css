@@ -25,6 +25,12 @@ a{
 
 .info h1{
 text-align:center;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #000;
+border-top-style: solid;
+border-top-width: 1px;
+border-top-color: #000;
 }
 
 .logo{
@@ -32,9 +38,7 @@ width:26%;
 display:block;
 padding-right:37%;
 padding-left:37%;
-border-bottom-style: solid;
-border-bottom-width: 1px;
-border-bottom-color: #000;
+
 
 margin-right:auto;
 margin-left:auto;
