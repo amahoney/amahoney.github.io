@@ -32,6 +32,9 @@ width:26%;
 display:block;
 padding-right:37%;
 padding-left:37%;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+border-bottom-color: #000;
 
 margin-right:auto;
 margin-left:auto;
