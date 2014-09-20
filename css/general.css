@@ -185,9 +185,6 @@ br{
 
 @media only screen and (max-width: 38em) {
 
-html{
-	background-color: red;
-}
 
 
 }
@@ -197,9 +194,7 @@ html{
 }
 
 
-.info{
-	padding-top:40%;
-}
+
 
 p{
 	font-size:0.9em;
