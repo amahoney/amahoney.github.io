@@ -23,6 +23,9 @@ a{
 
 }
 
+.info h1{
+text-align:center;
+}
 
 .logo{
 width:26%;
@@ -106,7 +109,7 @@ outline:2px solid #000;
 h1{
 
 		font-family: "futura", sans-serif;
-		text-transform: lowercase;
+		text-transform: uppercase;
 		font-weight: 300;
 		font-size: 1.2em;
 		padding-left: 5%;
