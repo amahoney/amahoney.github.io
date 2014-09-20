@@ -3,16 +3,19 @@ body{
 	padding:0;
 
 }
+.social a{
+	display:inline-block;
+}
 
 .social{
 	width:100%;
 	margin-right:auto;
 	margin-left:auto;
-
+display:block;
 }
 .social img{
-width:10%;
-display:inline-block;
+width:100px;
+
 }
 .address{
 		font-family: "futura", sans-serif;
