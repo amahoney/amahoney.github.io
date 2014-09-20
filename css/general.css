@@ -8,8 +8,8 @@ body{
 }
 
 .social img{
-width:50%;
-min-height:auto !important;
+width:100%;
+
 margin-right:auto;
 margin-left:auto;
 display:block;
