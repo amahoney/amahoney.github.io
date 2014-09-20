@@ -192,8 +192,17 @@ br{
 html{
 	background-color: green;
 }
+.info h1{
+text-align:center;
+padding-top:5%;
+padding-bottom:5%;
 
 
+}
+
+.social a{
+width:20%;
+}
 
 
 p{
