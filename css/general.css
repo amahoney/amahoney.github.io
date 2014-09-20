@@ -9,10 +9,12 @@ body{
 
 .social img{
 width:50%;
-height:auto;
+min-height:auto;
 margin-right:auto;
-	margin-left:auto;
+margin-left:auto;
 display:block;
+
+
 
 }
 .address{
