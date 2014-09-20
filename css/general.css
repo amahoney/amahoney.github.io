@@ -10,9 +10,10 @@ padding:0;
 }
 
 .social img{
-	width:10%;
+	width:30%;
 margin:0;
 padding:0;
+display:inline-block;
 
 }
 
