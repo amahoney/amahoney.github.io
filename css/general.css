@@ -8,13 +8,18 @@ body{
 }
 
 .social img{
-width:50%;
-padding-right: 20%;
-display:block;
-
-
+width:40%;
 
 }
+
+.social{
+	margin-right:auto;
+	margin-left:auto;
+	display:block;
+
+}
+
+
 .address{
 		font-family: "futura", sans-serif;
 	padding-left:5%;
