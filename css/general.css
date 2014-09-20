@@ -107,8 +107,8 @@ outline:2px solid #000;
 }
 
 h1{
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 
-		font-family: "futura", sans-serif;
 		text-transform: uppercase;
 		font-weight: 300;
 		font-size: 1.2em;
