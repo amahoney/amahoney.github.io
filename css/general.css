@@ -16,6 +16,7 @@ width:40%;
 	margin-right:auto;
 	margin-left:auto;
 	display:block;
+	padding-right:20%;
 
 }
 
@@ -75,7 +76,7 @@ width:99.5%;
 
 img{
 	width:100%;
-	min-height:50px;
+
 	display:block;
 
 }
