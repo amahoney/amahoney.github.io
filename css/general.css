@@ -5,10 +5,14 @@ body{
 }
 .social a{
 	display:inline-block;
+	margin:0;
+padding:0;
 }
 
 .social img{
 width:40%;
+margin:0;
+padding:0;
 
 }
 
