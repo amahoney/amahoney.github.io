@@ -21,7 +21,10 @@ width:100%;
 
 
 }
-
+.info h2{
+	text-align:center;
+	padding-top:2%;
+}
 
 .address{
 		font-family: "futura", sans-serif;
