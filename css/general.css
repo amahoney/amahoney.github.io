@@ -340,5 +340,8 @@ margin-left:auto;
 .logo img{
 	padding
 }
-
+.para-large{
+	width:60%;
+	float:right;
+}
 }
