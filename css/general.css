@@ -183,6 +183,12 @@ overflow:hidden;
 br{
 	padding-top:2%;
 }
+.para-large{
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	padding:5%;
+	margin:0;
+
+}
 
 @media only screen and (max-width: 38em) {
 
