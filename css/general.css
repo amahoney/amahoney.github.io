@@ -236,7 +236,7 @@ p{
 
 }
 
-@media only screen and (min-width: 51em) and (max-width: 70em) {
+@media only screen and (min-width: 50em) and (max-width: 70em) {
 html{
 	background-color: yellow;
 }
@@ -271,7 +271,7 @@ background-color:#fff;
 
 }
 
-@media only screen and (min-width: 71em) {
+@media only screen and (min-width: 70em) {
 
 
 
