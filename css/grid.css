@@ -50,7 +50,7 @@
 
 }
 
-@media only screen and (min-width: 38em) and (max-width: 60em) {
+@media only screen and (min-width: 38em) and (max-width: 70em) {
   .unit-m-hidden {
     display: none;
     visibility: hidden;
