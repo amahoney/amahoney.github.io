@@ -342,13 +342,14 @@ margin-left:auto;
 
 
 }
-.logo img{
-	padding
-}
 
+.title{
+	width:36%;
+
+}
 .para-large{
-	width:60%;
+	width:40%;
 	float:right;
-overflow:hidden
+
 }
 }
