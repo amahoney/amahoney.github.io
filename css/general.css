@@ -280,7 +280,9 @@ p{
 p{
 	font-size:1.2em;
 }
-
+.info{
+	display:block;
+}
 .info h1{
 text-align:left;
 font-size: 1.3em;
@@ -346,9 +348,9 @@ margin-left:auto;
 
 }
 .para-large{
-	width:50%;
-float:left;
-top:1em;
+	width:60%;
+display:inline-block;
+
 
 }
 }
