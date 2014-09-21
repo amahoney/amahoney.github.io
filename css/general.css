@@ -27,7 +27,7 @@ width:60%;
 }
 
 .address{
-		font-family: "futura", sans-serif;
+		font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	padding-left:5%;
 	padding-right:5%;
 	padding-top:5%;
@@ -148,7 +148,7 @@ h1{
 }
 
 p{
-	font-family: "futura", sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	padding:5%;
 	margin:0;
 	font-size:0.8em;
@@ -158,7 +158,7 @@ p{
 
 h2{
 	padding-left:5%;
-	font-family: "futura", sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	font-weight:500;
 	margin:0;
 	font-size:1em;
@@ -189,9 +189,7 @@ br{
 
 }
 @media only screen and (min-width: 38em) and (max-width: 60em) {
-html{
-	background-color: green;
-}
+
 .logo{
 width:59%;
 display:block;
