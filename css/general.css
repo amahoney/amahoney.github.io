@@ -315,10 +315,13 @@ margin-left: auto;
 width:60%;
 padding-right:0;
 padding-left:0;
-margin-right:0;
-margin-left:0;
+margin-right:auto;
+margin-left:auto;
 
 
+}
+.logo img{
+	padding
 }
 
 }
