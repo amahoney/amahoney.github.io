@@ -148,7 +148,7 @@ h1{
 }
 
 p,
-.para-large p{
+.info p{
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	padding:5%;
 	margin:0;
@@ -231,7 +231,7 @@ width:20%;
 
 
 p,
-.para-large p{
+.info p{
 	font-size:0.9em;
 }
 
@@ -272,7 +272,7 @@ background-color:#fff;
 }
 
 p,
-.para-large p{
+.info p{
 	font-size:1em;
 }
 
@@ -281,7 +281,7 @@ p,
 @media only screen and (min-width: 70em) {
 
 p,
-.para-large p{
+.info p{
 	font-size:1.2em;
 }
 
