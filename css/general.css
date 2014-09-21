@@ -283,7 +283,7 @@ p{
 
 .info h1{
 text-align:left;
-font-size: 1em;
+font-size: 1.5em;
 border:none;
 padding-top:4%;
 padding-bottom:4%;
@@ -297,6 +297,28 @@ margin-right:auto;
 margin-left: auto;
 
 }
+
+.social a{
+	display:block;
+	width:14%;
+
+}
+
+
+
+.social{
+width:60%;
+
+
+	display:block;
+
+
+}
+
+
+
+
+
 
 .address{
 	padding-left:0;
