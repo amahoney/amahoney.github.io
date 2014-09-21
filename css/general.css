@@ -147,8 +147,7 @@ h1{
 
 }
 
-p,
-.info p{
+p{
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
 	padding:5%;
 	margin:0;
@@ -230,8 +229,7 @@ width:20%;
 }
 
 
-p,
-.info p{
+p{
 	font-size:0.9em;
 }
 
@@ -271,8 +269,7 @@ background-color:#fff;
 
 }
 
-p,
-.info p{
+p{
 	font-size:1em;
 }
 
@@ -280,14 +277,13 @@ p,
 
 @media only screen and (min-width: 70em) {
 
-p,
-.info p{
+p{
 	font-size:1.2em;
 }
 
 .info h1{
 text-align:left;
-font-size: 1.5em;
+font-size: 1.3em;
 border:none;
 padding-top:4%;
 padding-bottom:1%;
@@ -308,12 +304,12 @@ margin-left: auto;
 }
 
 .social a{
-	width:12%;
+	width:20%;
 }
 
 
 .social{
-width:50%;
+width:80%;
 padding-left:5%;
 margin-right:0;
 
