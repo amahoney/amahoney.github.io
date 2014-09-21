@@ -346,8 +346,9 @@ margin-left:auto;
 
 }
 .para-large{
-	width:70%;
-
+	width:50%;
+float:left;
+top:1em;
 
 }
 }
