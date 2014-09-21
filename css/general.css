@@ -193,7 +193,7 @@ br{
 .logo{
 width:59%;
 display:block;
-padding-top:20%;
+padding-top:18%;
 padding-right:20%;
 padding-left:20%;
 
@@ -215,6 +215,14 @@ padding-bottom:5%;
 
 }
 
+.social{
+
+
+	padding-left:32%;
+
+
+
+}
 .social a{
 width:20%;
 }
