@@ -147,11 +147,11 @@ h1{
 
 }
 
-p,
-.para-large p{
+ p{
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	padding:5%;
+
 	margin:0;
+
 	font-size:0.8em;
 }
 
@@ -236,13 +236,11 @@ width:20%;
 }
 
 
-p,
-.para-large p{
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	padding:5%;
-	margin:0;
+p{
+
 	font-size:0.9em;
 }
+
 
 
 }
@@ -280,11 +278,8 @@ background-color:#fff;
 
 }
 
-p,
-.para-large p{
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	padding:5%;
-	margin:0;
+p{
+
 	font-size:1em;
 }
 
@@ -292,11 +287,8 @@ p,
 
 @media only screen and (min-width: 70em) {
 
-p,
-.para-large p{
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-	padding:5%;
-	margin:0;
+p{
+
 	font-size:1.2em;
 }
 .info{
@@ -368,6 +360,7 @@ display:inline-block;
 }
 .para-large{
 	width:60%;
+	padding:0;
 display:inline-block;
 
 
