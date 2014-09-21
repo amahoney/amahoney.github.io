@@ -192,6 +192,18 @@ br{
 html{
 	background-color: green;
 }
+.logo{
+width:59%;
+display:block;
+padding-right:20%;
+padding-left:20%;
+
+
+margin-right:auto;
+margin-left:auto;
+background-color:#fff;
+
+}
 .info h1{
 text-align:center;
 
