@@ -270,7 +270,7 @@ background-color:#fff;
 }
 
 p{
-	font-size:1.2em;
+	font-size:1em;
 }
 
 }
@@ -278,7 +278,7 @@ p{
 @media only screen and (min-width: 70em) {
 
 p{
-	font-size:1.7em;
+	font-size:1.3em;
 }
 
 
