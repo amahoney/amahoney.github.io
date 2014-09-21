@@ -298,13 +298,15 @@ margin-left: auto;
 
 }
 
-
+.social a{
+	width:12%;
+}
 
 
 .social{
 width:50%;
 padding-left:5%;
-
+margin-right:0;
 
 
 }
