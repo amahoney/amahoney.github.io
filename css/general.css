@@ -347,7 +347,6 @@ margin-left:auto;
 .para-large{
 	width:60%;
 	float:right;
-	 top: 1em;
-    right: 1em;
+overflow:hidden
 }
 }
